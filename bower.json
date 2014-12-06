@@ -11,6 +11,10 @@
     "tooltip",
     "css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hudsonmarinho/simple-tooltip-css.git"
+  },
   "license": "MIT",
   "homepage": "http://hudsonmarinho.com/lab/simple-tooltip",
   "ignore": [
