@@ -1,8 +1,5 @@
 .sass-cache/
 node_modules/
 bower_components/
-src/
 gulp/
-package.json
-Gulpfile.js
 
