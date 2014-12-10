@@ -5,9 +5,7 @@ A simple tooltip only css
 
 ## Installing using the bower
 
-```bash
-bower install simple-tooltip-css
-```
+![alt tag](http://i.giphy.com/yoJC2Kknd3VdryDBpm.gif)
 
 ## How to use
 
