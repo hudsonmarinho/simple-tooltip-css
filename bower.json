@@ -1,25 +1,23 @@
 {
   "name": "simple-tooltip-css",
+  "description": "A simple tooltip only css",
   "version": "1.0.1",
+  "homepage": "http://hudsonmarinho.com/lab/simple-tooltip-css",
   "authors": [
     "Hudson Marinho <hudsonmarinhodev@gmail.com>"
   ],
-  "description": "A simple tooltip only css",
-  "main": "dist/index.html",
   "keywords": [
     "simple",
     "tooltip",
     "css"
   ],
-  "repository": { "type": "git", "url": "https://github.com/hudsonmarinho/simple-tooltip-css.git" },
   "license": "MIT",
-  "homepage": "http://hudsonmarinho.com/lab/simple-tooltip",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "Gulpfile.js",
     "test",
-    "Gulpfile.js"
     "tests"
   ]
 }
