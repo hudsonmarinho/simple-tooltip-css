@@ -23,7 +23,7 @@ Insert the attribute `data-simpletooltip` on the element you want
 <a href="#" data-simpletooltip="Lorem ipsum dolor sit amet.">sit amet</a>
 ```
 
-Add cursor pointer help
+Insert attr `data-simpletooltip-help` to help style
 ```bash
 <a href="#" data-simpletooltip="Lorem ipsum dolor sit amet." data-simpletooltip-help>sit amet</a>
 ```
