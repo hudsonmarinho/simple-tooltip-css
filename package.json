@@ -1,0 +1,23 @@
+{
+  "name": "simple-tooltip-css",
+  "description": "A simple tooltip only css",
+  "version": "1.0.1",
+  "homepage": "http://hudsonmarinho.com/lab/simple-tooltip-css",
+  "author": "Hudson Marinho <hudsonmarinhodev@gmail.com>",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "connect-livereload": "^0.5.2",
+    "express": "^4.10.4",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "tiny-lr": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hudsonmarinho/simple-tooltip-css.git"
+  },
+  "license": "MIT"
+}
