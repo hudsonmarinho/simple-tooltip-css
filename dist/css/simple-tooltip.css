@@ -1,6 +1,6 @@
 [data-simpletooltip] {
-  text-decoration: none;
   cursor: pointer;
+  text-decoration: none;
   position: relative;
 }
 [data-simpletooltip][data-simpletooltip-setting~=help] {
@@ -18,8 +18,8 @@
   opacity: 0;
   visibility: hidden;
   bottom: 100%;
-  position: absolute;
   display: block;
+  position: absolute;
 }
 [data-simpletooltip]:before {
   width: 0;
@@ -37,9 +37,9 @@
   padding: 10px;
   left: calc(50% - 200px / 2);
   margin-bottom: 15px;
-  border-radius: 3px;
   background: #000;
   background: rgba(51, 51, 51, 0.9);
+  border-radius: 3px;
   text-align: center;
   color: #fff;
   content: attr(data-simpletooltip);
